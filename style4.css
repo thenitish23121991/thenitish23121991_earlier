@@ -118,7 +118,7 @@ html, body {
 .intro_line_container {
   padding-top: 24px;
   text-align: left;
-  width: 54%;
+  width: 58%;
   margin: 14px 11%; }
 
 .intro_line {
@@ -240,7 +240,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 292px; }
+    height: 30px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(1) {
@@ -266,7 +266,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 110px; }
+    height: 383px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(3) {
@@ -279,7 +279,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 187px; }
+    height: 384px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(4) {
@@ -292,7 +292,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 245px; }
+    height: 104px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(5) {
@@ -305,7 +305,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 369px; }
+    height: 159px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(6) {
@@ -318,7 +318,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 367px; }
+    height: 267px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(7) {
@@ -331,7 +331,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 419px; }
+    height: 69px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(8) {
@@ -344,7 +344,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 340px; }
+    height: 23px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(9) {
@@ -357,7 +357,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 210px; }
+    height: 171px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(10) {
@@ -370,7 +370,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 405px; }
+    height: 12px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(11) {
@@ -383,7 +383,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 85px; }
+    height: 116px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(12) {
@@ -396,7 +396,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 54px; }
+    height: 217px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(13) {
@@ -409,7 +409,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 211px; }
+    height: 242px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(14) {
@@ -422,7 +422,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 210px; }
+    height: 369px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(15) {
@@ -435,7 +435,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 272px; }
+    height: 103px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(16) {
@@ -448,7 +448,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 278px; }
+    height: 311px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(17) {
@@ -461,7 +461,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 408px; }
+    height: 138px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(18) {
@@ -474,7 +474,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 404px; }
+    height: 21px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(19) {
@@ -487,7 +487,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 280px; }
+    height: 232px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(20) {
@@ -500,7 +500,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 402px; }
+    height: 276px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(21) {
@@ -513,7 +513,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 349px; }
+    height: 372px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(22) {
@@ -526,7 +526,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 149px; }
+    height: 122px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(23) {
@@ -539,7 +539,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 95px; }
+    height: 336px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(24) {
@@ -552,7 +552,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 294px; }
+    height: 137px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(25) {
@@ -565,7 +565,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 295px; }
+    height: 52px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(26) {
@@ -578,7 +578,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 177px; }
+    height: 389px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(27) {
@@ -591,7 +591,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 279px; }
+    height: 238px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(28) {
@@ -604,7 +604,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 179px; }
+    height: 233px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(29) {
@@ -617,7 +617,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 9px; }
+    height: 270px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(30) {
@@ -630,7 +630,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 141px; }
+    height: 295px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(31) {
@@ -643,7 +643,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 274px; }
+    height: 177px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(32) {
@@ -656,7 +656,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 382px; }
+    height: 281px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(33) {
@@ -669,7 +669,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 291px; }
+    height: 403px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(34) {
@@ -682,7 +682,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 111px; }
+    height: 53px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(35) {
@@ -695,7 +695,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 308px; }
+    height: 272px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(36) {
@@ -708,7 +708,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 352px; }
+    height: 241px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(37) {
@@ -721,7 +721,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 236px; }
+    height: 333px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(38) {
@@ -734,7 +734,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 48px; }
+    height: 419px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(39) {
@@ -747,7 +747,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 13px; }
+    height: 343px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(40) {
@@ -760,7 +760,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 349px; }
+    height: 81px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(41) {
@@ -773,7 +773,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 35px; }
+    height: 4px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(42) {
@@ -786,7 +786,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 255px; }
+    height: 9px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(43) {
@@ -799,7 +799,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 344px; }
+    height: 405px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(44) {
@@ -812,7 +812,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 403px; }
+    height: 70px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(45) {
@@ -825,7 +825,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 5px; }
+    height: 26px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(46) {
@@ -838,7 +838,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 377px; }
+    height: 258px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(47) {
@@ -851,7 +851,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 244px; }
+    height: 322px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(48) {
@@ -864,7 +864,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 332px; }
+    height: 113px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(49) {
@@ -877,7 +877,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 176px; }
+    height: 50px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(50) {
@@ -890,7 +890,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 101px; }
+    height: 238px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(51) {
@@ -903,7 +903,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 171px; }
+    height: 87px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(52) {
@@ -916,7 +916,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 368px; }
+    height: 143px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(53) {
@@ -929,7 +929,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 2px; }
+    height: 278px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(54) {
@@ -942,7 +942,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 138px; }
+    height: 70px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(55) {
@@ -955,7 +955,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 230px; }
+    height: 39px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(56) {
@@ -968,7 +968,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 197px; }
+    height: 112px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(57) {
@@ -981,7 +981,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 43px; }
+    height: 34px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(58) {
@@ -994,7 +994,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 1px; }
+    height: 202px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(59) {
@@ -1007,7 +1007,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 207px; }
+    height: 78px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(60) {
@@ -1020,7 +1020,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 239px; }
+    height: 308px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(61) {
@@ -1033,7 +1033,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 316px; }
+    height: 305px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(62) {
@@ -1046,7 +1046,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 238px; }
+    height: 146px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(63) {
@@ -1059,7 +1059,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 357px; }
+    height: 178px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(64) {
@@ -1072,7 +1072,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 320px; }
+    height: 325px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(65) {
@@ -1085,7 +1085,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 6px; }
+    height: 69px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(66) {
@@ -1098,7 +1098,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 419px; }
+    height: 240px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(67) {
@@ -1111,7 +1111,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 408px; }
+    height: 23px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(68) {
@@ -1124,7 +1124,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 347px; }
+    height: 285px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(69) {
@@ -1137,7 +1137,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 193px; }
+    height: 354px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(70) {
@@ -1150,7 +1150,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 40px; }
+    height: 154px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(71) {
@@ -1163,7 +1163,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 67px; }
+    height: 89px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(72) {
@@ -1176,7 +1176,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 170px; }
+    height: 412px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(73) {
@@ -1189,7 +1189,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 354px; }
+    height: 268px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(74) {
@@ -1202,7 +1202,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 408px; }
+    height: 358px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(75) {
@@ -1215,7 +1215,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 206px; }
+    height: 216px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(76) {
@@ -1228,7 +1228,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 397px; }
+    height: 229px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(77) {
@@ -1241,7 +1241,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 257px; }
+    height: 22px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(78) {
@@ -1254,7 +1254,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 305px; }
+    height: 155px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(79) {
@@ -1267,7 +1267,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 48px; }
+    height: 376px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(80) {
@@ -1280,7 +1280,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 359px; }
+    height: 266px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(81) {
@@ -1293,7 +1293,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 27px; }
+    height: 349px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(82) {
@@ -1306,7 +1306,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 122px; }
+    height: 13px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(83) {
@@ -1319,7 +1319,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 60px; }
+    height: 123px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(84) {
@@ -1332,7 +1332,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 224px; }
+    height: 362px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(85) {
@@ -1345,7 +1345,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 397px; }
+    height: 113px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(86) {
@@ -1358,7 +1358,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 297px; }
+    height: 137px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(87) {
@@ -1371,7 +1371,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 14px; }
+    height: 57px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(88) {
@@ -1384,7 +1384,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 250px; }
+    height: 123px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(89) {
@@ -1397,7 +1397,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 379px; }
+    height: 209px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(90) {
@@ -1410,7 +1410,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 306px; }
+    height: 320px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(91) {
@@ -1423,7 +1423,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 150px; }
+    height: 287px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(92) {
@@ -1436,7 +1436,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 15px; }
+    height: 126px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(93) {
@@ -1449,7 +1449,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 311px; }
+    height: 214px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(94) {
@@ -1462,7 +1462,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 73px; }
+    height: 248px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(95) {
@@ -1475,7 +1475,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 17px; }
+    height: 353px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(96) {
@@ -1488,7 +1488,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 278px; }
+    height: 190px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(97) {
@@ -1501,7 +1501,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 22px; }
+    height: 271px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(98) {
@@ -1514,7 +1514,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 126px; }
+    height: 188px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(99) {
@@ -1527,7 +1527,7 @@ a:nth-child(4) .intro_button {
   0% {
     height: 0px; }
   60% {
-    height: 57px; }
+    height: 34px; }
   100% {
     height: 0px; } }
 .skyline:nth-child(100) {
