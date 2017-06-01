@@ -1,0 +1,20 @@
+
+
+#work_section1, #work_section3, #work_cover3{
+	width:96%;
+	margin:2% 2%;
+}
+
+#work_cover4, #work_cover2{
+	width:49%;
+}
+#work_cover2{
+margin-left:2%;
+}
+#work_section1{
+	margin-top:2%;
+}
+
+.work_cover{
+	width:100%;
+}

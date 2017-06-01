@@ -1,0 +1,122 @@
+
+ $work_color1: rgba(74,33,100,.75);
+ $work_color2: rgba(9,120,51,.75);
+ $work_color3: rgba(255,223,66,.75);
+ $work_color4: rgba(225,36,16,.75);
+ $work_color5: rgba(44,146,217,.75);
+
+
+.works_container{
+	min-height:100%;
+	width:100%;
+}
+.works_cover_container{
+position:relative;
+width:100%;
+height:340px;
+}
+.works_content_container{
+margin:58px 0px 72px 0px;
+width:84%;
+margin-left:8%;
+}
+.works_content_title{
+font-family:'GothamBook';
+font-size:38px;
+color:#000;
+}
+.works_content_text{
+font-family:'GothamLight';
+font-size:18.5px;
+line-height:29px;
+margin-top:14px;
+}
+#works_cover_1{
+	background-image:url('works.png');
+	background-size: cover;
+}
+.works_overlay_title{
+	margin-top:10.5%;
+	width:100%;
+	font-family:'GothamBook';
+	font-size:54px;
+	color:#fff;
+	text-align:center;
+}
+.works_overlay_desc{
+	font-family:'GothamBook';
+	font-size:21.2px;
+	color:#fff;
+	margin-top:24px;
+	width:100%;
+	text-align:center;
+}
+.works_details_container{
+position:relative;
+margin-top:42px;
+width:84%;
+margin-left:8%;
+}
+.works_details_single{
+	width:31%;
+	float:left;
+	position:relative;
+
+}
+.works_details_single:nth-child(2), .works_details_single:nth-child(3){
+	margin-left:2.5%;
+}
+.works_details_title{
+	font-family:'GothamBook';
+	color:rgb(30,188,254);
+	font-size:27.4px;
+}
+.works_details_left{
+
+}
+
+.works_details_content{
+	position:relative;
+	margin-top:9px;
+
+font-family:'GothamLight';
+font-size:17.2px;
+line-height:26.8px;
+	color:#000;
+}
+.works_content_title{
+	margin-top:54px;
+}
+
+.works_bottom_container{
+
+width:100%;
+}
+.bottom_single_container{
+	position:relative;
+width:33.33%;
+float:left;
+height:240px;
+background-image:url('works.png');
+background-size:cover;
+}
+
+.bottom_single_container:nth-child(1){
+background-color:$work_color1;
+}
+.bottom_single_container:nth-child(2){
+background-color:$work_color2;
+}
+.bottom_single_container:nth-child(3){
+background-color:$work_color3;
+}
+.bottom_single_container:nth-child(4){
+background-color:$work_color4;
+}
+.bottom_single_container:nth-child(5){
+background-color:$work_color5;
+}
+.bottom_single_container:nth-child(6){
+background-color:$work_color6;
+}
+

@@ -1,95 +1,606 @@
+* {
+  margin: 0px;
+  padding: 0px; }
 
-.works_container{
-	min-height:100%;
-	width:100%;
-}
-.works_cover_container{
-position:relative;
-width:100%;
-height:340px;
-}
-.works_content_container{
-margin:58px 0px 72px 0px;
-width:84%;
-margin-left:8%;
-}
-.works_content_title{
-font-family:'GothamBook';
-font-size:38px;
-color:#000;
-}
-.works_content_text{
-font-family:'GothamLight';
-font-size:18.5px;
-line-height:29px;
-margin-top:14px;
-}
-#works_cover_1{
-	background-image:url('works.png');
-	background-size: cover;
-}
-.works_overlay_title{
-	margin-top:10.5%;
-	width:100%;
-	font-family:'GothamBook';
-	font-size:54px;
-	color:#fff;
-	text-align:center;
-}
-.works_overlay_desc{
-	font-family:'GothamBook';
-	font-size:21.2px;
-	color:#fff;
-	margin-top:24px;
-	width:100%;
-	text-align:center;
-}
-.works_details_container{
-position:relative;
-margin-top:42px;
-width:84%;
-margin-left:8%;
-}
-.works_details_single{
-	width:31%;
-	float:left;
-	position:relative;
+@font-face {
+  src: url("fonts/Gotham-XLight.ttf");
+  font-family: "GothamXLight"; }
+@font-face {
+  src: url("fonts/untitled-font-19.ttf");
+  font-family: "untitled-font-19"; }
+@font-face {
+  src: url("fonts/Futura-Light.ttf");
+  font-family: "FuturaLight"; }
+@font-face {
+  src: url("fonts/neue_haas.ttf");
+  font-family: "NeueHaas"; }
+@font-face {
+  src: url("fonts/Futura PT Heavy.ttf");
+  font-family: "FuturaPTHeavy"; }
+@font-face {
+  src: url("fonts/Futura PT Book.otf");
+  font-family: "FuturaPTBook"; }
+@font-face {
+  src: url("fonts/futura-pt-light.otf");
+  font-family: "FuturaPTLight"; }
+@font-face {
+  src: url("fonts/Futura PT Heavy.ttf");
+  font-family: "FuturaPTHeavy"; }
+@font-face {
+  src: url("fonts/MinionPro-Regular.ttf");
+  font-family: "MinionPro"; }
+@font-face {
+  src: url("fonts/Futura-Thin.woff");
+  font-family: "FuturaThin"; }
+@font-face {
+  src: url("fonts/rnhem-normal.ttf");
+  font-family: "Arnhem"; }
+@font-face {
+  src: url("fonts/freight-text-book.ttf");
+  font-family: "FreightText"; }
+@font-face {
+  src: url("fonts/Leitura News Roman.otf");
+  font-family: "LeituraNews"; }
+@font-face {
+  src: url("fonts/LyonText-Regular-Web.woff2");
+  font-family: "LyonText"; }
+html, body {
+  height: 100%;
+  width: 100%; }
 
-}
-.works_details_single:nth-child(2), .works_details_single:nth-child(3){
-	margin-left:2.5%;
-}
-.works_details_title{
-	font-family:'GothamBook';
-	color:rgb(30,188,254);
-	font-size:27.4px;
-}
-.works_details_left{
+.overlay {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(52, 13, 123, 0.65);
+  z-index: 12; }
 
-}
+svg g polygon {
+  transform-origin: 50% 50% 50%;
+  -webkit-transform-origin: 50% 50% 50%; }
 
-.works_details_content{
-	position:relative;
-	margin-top:9px;
+.container {
+  position: relative;
+  perspective: 1200px;
+  -webkit-perspective: 1200px; }
 
-font-family:'GothamLight';
-font-size:17.2px;
-line-height:26.8px;
-	color:#000;
-}
-.works_content_title{
-	margin-top:54px;
-}
+#intro_container {
+  position: absolute;
+  top: 14%;
+  left: 9%; }
 
-.works_bottom_container{
+.clear {
+  clear: both; }
 
-width:100%;
-}
-.bottom_single_container{
-	position:relative;
-width:33.33%;
-float:left;
-height:240px;
-background-image:url('works.png');
-background-size:cover;
-}
+.container {
+  height: 100%;
+  width: 100%;
+  position: relative; }
+
+#first_slide {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-image: url("home_background.jpg");
+  background-size: cover;
+  position: relative; }
+
+#second_slide {
+  min-height: 100%;
+  width: 100%;
+  background: #fff;
+  overflow: hidden;
+  position: relative; }
+
+.work_cover {
+  position: relative;
+  background-size: cover; }
+
+#work_cover1 {
+  width: 100%;
+  height: 420px; }
+
+#work_section1 {
+  position: relative;
+  width: 100%;
+  height: 420px;
+  background-image: url("sureshot_larger.jpg");
+  background-size: cover; }
+
+.work_section {
+  position: relative; }
+
+.work_overlay {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%; }
+
+#work_cover1 .work_overlay {
+  background: rgba(255, 212, 72, 0.55); }
+
+#work_cover2 .work_overlay {
+  background: rgba(81, 45, 168, 0.55); }
+
+#work_cover3 .work_overlay {
+  background: rgba(62, 136, 237, 0.55); }
+
+#work_cover4 .work_overlay {
+  background: rgba(34, 217, 108, 0.55); }
+
+#work_cover5 .work_overlay {
+  background: #f3f3f3; }
+
+#work_cover4, #work_cover5 {
+  height: 420px;
+  width: 50%;
+  float: left; }
+
+.work_section_title {
+  font-family: "FuturaPTLight";
+  font-size: 84px;
+  color: #fff;
+  text-align: center; }
+
+.work_section_desc {
+  text-align: center;
+  font-family: "FuturaPTLight";
+  font-size: 25.8px;
+  margin-top: 24px;
+  color: #fff; }
+
+.work_cover .work_overlay .work_section_title {
+  margin-top: 10%; }
+
+#work_cover4 .work_overlay .work_section_title, #work_cover5 .work_overlay .work_section_title {
+  margin-top: 20%; }
+
+#work_cover2 .work_overlay .work_section_title, #work_cover3 .work_overlay .work_section_title {
+  margin-top: 20%; }
+
+#work_section2 {
+  height: 420px;
+  width: 100%; }
+
+#work_section3 {
+  height: 420px;
+  width: 100%; }
+
+#work_cover2, #work_cover3 {
+  width: 50%;
+  height: 420px; }
+
+#work_cover2 {
+  background-image: url("mycarapp_cover.jpg.png");
+  float: left; }
+
+#work_cover3 {
+  background-image: url("goqii_illustration.jpg");
+  background-size: cover;
+  float: left; }
+
+#work_cover4 {
+  background-image: url("studycopter_cover.png"); }
+
+.intro_name_container {
+  padding-top: 10%;
+  text-align: left;
+  width: 60%;
+  margin: 0px 13%; }
+
+.intro_name {
+  font-family: "FuturaPTLight";
+  font-size: 54px;
+  color: #111; }
+
+.intro_line_container {
+  padding-top: 24px;
+  text-align: left;
+  width: 76%;
+  margin: 24px 13%; }
+
+.intro_line {
+  font-family: "FuturaPTLight";
+  font-size: 48px;
+  color: #111; }
+
+.intro_name, .intro_line {
+  padding: 23px 12px 17px 12px;
+  background: #ffffff;
+  font-family: "FuturaPTLight";
+  font-size: 48px; }
+
+.intro_buttons {
+  margin-top: 48px;
+  width: 100%;
+  text-align: center; }
+
+.intro_button {
+  height: 48px;
+  width: 48px;
+  border-radius: 27px;
+  display: inline-block;
+  margin-left: 8px;
+  background: #3b5998;
+  position: relative; }
+
+a:nth-child(1) .intro_button {
+  margin-left: 0px;
+  background: #1769ff; }
+
+a:nth-child(2) .intro_button {
+  background: #4078c0; }
+
+a:nth-child(3) .intro_button {
+  background: #0077b5; }
+
+a:nth-child(4) .intro_button {
+  background: #00ab6b; }
+
+.intro_button:before {
+  position: absolute;
+  top: 14.1px;
+  left: 16px;
+  color: #fff;
+  font-family: "untitled-font-19";
+  font-size: 16.5px; }
+
+.intro_buttons a:nth-child(1) .intro_button:before {
+  content: "k";
+  font-size: 17.5px; }
+
+.intro_buttons a:nth-child(2) .intro_button:before {
+  content: "m";
+  top: 15.7px; }
+
+.intro_buttons a:nth-child(3) .intro_button:before {
+  content: "n";
+  font-size: 14.6px;
+  top: 15.8px;
+  left: 16.7px; }
+
+.intro_buttons a:nth-child(4) .intro_button:before {
+  font-size: 14.2px;
+  top: 18.1px;
+  left: 17.3px;
+  content: "q"; }
+
+.intro_buttons a {
+  margin-left: 12px; }
+
+#third_slide {
+  background: #fff;
+  min-height: 320px;
+  width: 100%; }
+
+.contact_container {
+  width: 100%; }
+
+.contact_text {
+  width: 70%;
+  padding: 48px 15% 22px 15%;
+  font-family: "FuturaPTLight";
+  font-size: 46px;
+  color: #000;
+  text-align: center; }
+
+.contact_content {
+  width: 80%;
+  margin: 18px 10%; }
+
+.contact_single {
+  float: left;
+  width: 33.3%; }
+
+.contact_content {
+  font-family: "FuturaPTLight";
+  font-size: 26.5px;
+  color: #000;
+  text-align: center; }
+
+.contact_email {
+  font-family: "FuturaPTLight";
+  font-size: 35px;
+  color: #1ebcff; }
+
+.skyline {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background: #111;
+  height: 0px;
+  width: 8px; }
+
+.first_square {
+  height: 72px;
+  width: 72px;
+  background: #e3cf8a;
+  position: absolute;
+  top: 270px;
+  left: 650px; }
+
+.first_square:nth-child(2) {
+  top: 342px;
+  -webkit-transform: scale(0);
+  -webkit-transition: all 0.29s cubic-bezier(0.02, 1, 0.69, 0.97) 0s; }
+
+.first_square:nth-child(3) {
+  top: 384px; }
+
+.first_square:nth-child(4) {
+  top: 456px; }
+
+.first_square:nth-child(5) {
+  top: 528px; }
+
+.first_square:nth-child(6) {
+  top: 600px; }
+
+.first_square:nth-child(7) {
+  top: 240px; }
+
+.first_square:nth-child(8) {
+  top: 168px; }
+
+.first_square:nth-child(9) {
+  top: 96px; }
+
+.first_square:nth-child(10) {
+  top: 24px; }
+
+.first_square:nth-child(11) {
+  top: -42px; }
+
+.first_square.scale {
+  -webkit-transform: scale(1); }
+
+.work_cover a {
+  display: block; }
+
+.home_menu {
+  margin: 4% 13% 0% 13%;
+  width: 60%; }
+
+.home_menu ul {
+  list-style-type: none; }
+
+.home_menu ul li {
+  font-family: 'FuturaPTLight';
+  font-size: 27.5px;
+  margin-left: 54px;
+  float: left;
+  cursor: pointer;
+  color: #fff; }
+
+.home_menu ul li.list_active {
+  color: lightgray; }
+
+.home_menu ul li a {
+  text-decoration: none;
+  color: inherit; }
+
+.home_menu ul li:nth-child(1) {
+  margin-left: 0px; }
+
+.intro_name_container {
+  clear: left; }
+
+.home_top_container {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: url("home_pattern-03.png");
+  background-size: cover;
+  background-position: 0px 0px; }
+
+.works_cover {
+  cursor: pointer; }
+
+#work_cover5 .work_section_title, #work_cover5 .work_section_desc {
+  color: rgba(0, 0, 0, 0.8); }
+
+#svg_container {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: -40; }
+
+/*# sourceMappingURL=style4.css.map */
+.works_container {
+  min-height: 100%;
+  width: 100%; }
+
+#works_studycopter_book_container {
+  color: #FFD448; }
+
+#works_goqii_container {
+  color: #3e88ed; }
+
+#works_mycarapp_container {
+  color: #512DA8; }
+
+#works_studycopter_container {
+  color: #22D96C; }
+
+.works_cover_container {
+  position: relative;
+  width: 100%;
+  height: 340px; }
+
+.works_content_container {
+  margin: 58px 0px 72px 0px;
+  width: 84%;
+  margin-left: 8%; }
+
+.works_content_title {
+  font-family: 'FuturaPTHeavy';
+  font-size: 40px;
+  color: inherit; }
+
+.works_content_text {
+  font-family: "LeituraNews";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21.9px;
+  line-height: 38px;
+  margin-top: 8px;
+  color: rgba(0, 0, 0, 0.8); }
+
+#works_cover_1 {
+  background-image: url("sureshot_larger.jpg");
+  background-size: cover; }
+
+.works_overlay_title {
+  margin-top: 8%;
+  width: 100%;
+  font-family: 'FuturaPTLight';
+  font-size: 84px;
+  color: #fff;
+  text-align: center; }
+
+.works_overlay_desc {
+  font-family: 'FuturaPTLight';
+  font-size: 32.3px;
+  color: #fff;
+  margin-top: 18px;
+  width: 100%;
+  text-align: center; }
+
+.works_details_container {
+  position: relative;
+  margin-top: 42px;
+  width: 84%;
+  margin-left: 8%; }
+
+.works_details_single {
+  width: 44%;
+  float: left;
+  position: relative; }
+
+.works_details_single:nth-child(2), .works_details_single:nth-child(3) {
+  margin-left: 2.5%; }
+
+.works_details_title {
+  font-family: 'FuturaPTBook';
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 32.1px; }
+
+.works_details_content {
+  position: relative;
+  margin-top: 9px;
+  font-family: 'LeituraNews';
+  font-size: 20.1px;
+  line-height: 32px;
+  color: #000; }
+
+.works_content_title {
+  margin-top: 54px; }
+
+.works_bottom_container {
+  width: 100%; }
+
+.bottom_single_container {
+  position: relative;
+  width: 50%;
+  float: left;
+  height: 440px;
+  background-size: cover; }
+
+.bottom_single_container .overlay {
+  height: 100%;
+  width: 100%; }
+
+#works_cover_1 .overlay {
+  background: rgba(255, 212, 72, 0.55); }
+
+#works_cover_2 .overlay {
+  background: rgba(62, 136, 237, 0.55); }
+
+#works_cover_3 .overlay {
+  background: rgba(81, 45, 168, 0.55); }
+
+#works_cover_4 .overlay {
+  background: rgba(34, 217, 108, 0.55); }
+
+.bottom_single_container .overlay .work_section_title {
+  margin-top: 21%; }
+
+#bottom_single_goqii {
+  background-image: url("goqii_illustration.jpg"); }
+
+#bottom_single_studycopter_book {
+  background-image: url("sureshot_larger.jpg"); }
+
+#bottom_single_mycarapp {
+  background-image: url("mycarapp_cover.jpg.png"); }
+
+#bottom_single_studycopter {
+  background-image: url("studycopter_cover.png"); }
+
+#bottom_single_other {
+  background: #f3f3f3; }
+
+#bottom_single_other .overlay {
+  background: transparent; }
+
+#bottom_single_other .work_section_title, #bottom_single_other .work_section_desc {
+  color: rgba(0, 0, 0, 0.8); }
+
+.works_cover_container {
+  background-size: cover;
+  background-position: 0px -500px; }
+
+.works_cover_container .overlay {
+  background: rgba(0, 0, 0, 0.2); }
+
+#works_cover_1 {
+  background-image: url("sureshot_larger.jpg"); }
+
+#works_cover_2 {
+  background-image: url("goqii_illustration.jpg"); }
+
+#works_cover_3 {
+  background-image: url("mycarapp_cover.jpg.png"); }
+
+#works_cover_4 {
+  background-image: url("studycopter_cover.png"); }
+
+#works_cover_3 {
+  background-position: 0px -100px; }
+
+#works_cover_4 {
+  background-position: 0px -300px; }
+
+.home_button {
+  height: 56px;
+  width: 56px;
+  border-radius: 50%;
+  background: #5129C8;
+  position: fixed;
+  top: 7%;
+  left: 4.8%;
+  z-index: 1000; }
+
+.home_button img {
+  padding: 11px 10px; }
+
+.title_seperator {
+  height: 4px;
+  width: 56px;
+  margin: 6px 0px 22px 0px;
+  background: #000; }
+
+.screens_container img {
+  margin-left: 24px;
+  height: 640px;
+  width: 360px; }
+
+.screens_container img:nth-child(1) {
+  margin-left: 0px; }
+
+/*# sourceMappingURL=works.css.map */

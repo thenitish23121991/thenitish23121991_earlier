@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1827.6 800" style="enable-background:new 0 0 1827.6 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#XMLID_56_);}
+	.st1{opacity:0.7;fill:#5129C8;}
+	.st2{opacity:0.7;fill:#FFE046;}
+	.st3{opacity:0.7;fill:#2B9922;}
+</style>
+<g id="XMLID_50_">
+	<defs>
+		<rect id="XMLID_49_" x="0" width="1827.6" height="800"/>
+	</defs>
+	<clipPath id="XMLID_56_">
+		<use xlink:href="#XMLID_49_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Particle_4" class="st0">
+		<polygon id="Particle1" class="st1" points="880.8,0 216.8,800 0,800 0,0 		"/>
+		<polygon id="Particle2" class="st2" points="216.8,800 220.8,421 1045.7,800 		"/>
+		<polygon id="Particle_3" class="st3" points="1099.8,127 913.8,237 1145.8,269 1213.8,117 		"/>
+		<polygon id="Particle_4_1_" class="st1" points="1224.1,433 1726.1,627 984.1,699 		"/>
+		<polygon id="Particle_5" class="st2" points="1726.1,-63 1288.1,315 1922.1,433 1974.1,-95 		"/>
+		<polygon id="Particle_6" class="st1" points="1714.1,103 1536.1,303 1814.1,235 1814.1,55 		"/>
+	</g>
+</g>
+</svg>
