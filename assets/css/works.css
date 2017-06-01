@@ -1035,4 +1035,41 @@ margin-left:24px;
 .cover_image_container.full {
   text-align: center; }
 
+@media all and (min-width: 280px) and (max-width: 480px) {
+  .works_overlay_title {
+    margin-top: 38%; }
+
+  .home_button {
+    top: 3%; }
+
+  .bottom_single_container {
+    width: 100%; }
+
+  .bottom_single_container .overlay .work_section_title {
+    margin-top: 52%; } }
+@media all and (min-width: 480px) and (max-width: 768px) {
+  .works_overlay_title {
+    margin-top: 26%; }
+
+  .home_button {
+    top: 3%; }
+
+  .bottom_single_container {
+    width: 100%; }
+
+  .bottom_single_container .overlay .work_section_title {
+    margin-top: 24%; } }
+@media all and (min-width: 480px) and (max-width: 1020px) {
+  .works_overlay_title {
+    margin-top: 13%; }
+
+  .home_button {
+    top: 3%; }
+
+  .bottom_single_container {
+    width: 100%; }
+
+  .bottom_single_container .overlay .work_section_title {
+    margin-top: 17%; } }
+
 /*# sourceMappingURL=works.css.map */
