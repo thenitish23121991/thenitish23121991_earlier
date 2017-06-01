@@ -579,7 +579,7 @@ display:inline-block;
 
 
 
-@media only screen and (min-width:280px) and (max-width:480px){
+@media all and (min-width:280px) and (max-width:480px){
 
 #home_content_container{
   left:2%;
@@ -652,7 +652,7 @@ display:inline-block;
 
 
 
-@media only screen and (min-width:480px) and (max-width:768px){
+@media all and (min-width:480px) and (max-width:768px){
 
 #home_content_container{
   left:2%;
@@ -728,7 +728,7 @@ display:inline-block;
 
 
 
-@media only screen and (min-width:768px) and (max-width:1020px){
+@media all and (min-width:768px) and (max-width:1020px){
 
 #home_content_container{
   left:2%;
@@ -783,7 +783,7 @@ display:inline-block;
 
 
 
-@media only screen and (min-width:1020px) and (max-width:1366px){
+@media all and (min-width:1020px) and (max-width:1278px){
   
 .intro_name, .intro_line{
   font-size:38px;
@@ -803,7 +803,7 @@ display:inline-block;
 }
 
 
-@media only screen and (min-width:1367px){
+@media only screen and (min-width:1280px){
 
 .intro_container{
   margin-top:5%;
