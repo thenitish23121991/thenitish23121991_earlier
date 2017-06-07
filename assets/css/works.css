@@ -880,7 +880,7 @@ a:nth-child(4) .intro_button {
 .screens_container {
   padding: 54px 0px 32px 0px;
   background: #ececec;
-  margin-top: 12px;
+  margin: 12px 0px;
   text-align: center; }
 
 .screens_title {
