@@ -898,12 +898,15 @@ a:nth-child(4) .intro_button {
   margin-left: 14%;
   display: block; }
 
-.screens_images_container {
+.screens_images_container, .prototypes_container {
   text-align: center; }
 
 .screens_container img {
   margin-left: 48px;
   margin-top: 62px; }
+
+.prototypes_container {
+  margin: 32px; }
 
 /*
 .screens_container img:nth-child(2n+1){
