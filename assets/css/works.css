@@ -420,6 +420,7 @@ a:nth-child(4) .intro_button {
   width: 76%;
   margin: 24px 0%;
   opacity: 0;
+  border-radius: 4px;
   transform: translateX(-110px);
   -webkit-transform: translateX(-110px);
   -moz-transform: translateX(-110px);
@@ -430,6 +431,7 @@ a:nth-child(4) .intro_button {
   text-align: left;
   width: 60%;
   opacity: 0;
+  border-radius: 4px;
   transform: translateX(-110px);
   -webkit-transform: translateX(-110px);
   -moz-transform: translateX(-110px);
