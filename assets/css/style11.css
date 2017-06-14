@@ -489,7 +489,7 @@ a:nth-child(4) .intro_button {
   height: 100%;
   width: 100%; }
 
-.first_slide {
+#first_slide.first_slide {
   background: #333; }
 
 .first_slide_overlay {
