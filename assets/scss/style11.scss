@@ -574,8 +574,16 @@ display:inline-block;
   position:absolute;
   top:0px;
   left:0px;
-  height:100%; 
+  height:100%;   
   width:100%;
+}
+
+
+.first_slide{
+  background:#333;
+}
+.first_slide_overlay{
+  background:none;
 }
 
 /*# sourceMappingURL=style4.css.map */
