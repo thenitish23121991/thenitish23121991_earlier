@@ -420,7 +420,6 @@ a:nth-child(4) .intro_button {
   width: 76%;
   margin: 24px 0%;
   opacity: 0;
-  border-radius: 4px;
   transform: translateX(-110px);
   -webkit-transform: translateX(-110px);
   -moz-transform: translateX(-110px);
@@ -431,7 +430,6 @@ a:nth-child(4) .intro_button {
   text-align: left;
   width: 60%;
   opacity: 0;
-  border-radius: 4px;
   transform: translateX(-110px);
   -webkit-transform: translateX(-110px);
   -moz-transform: translateX(-110px);
@@ -440,6 +438,9 @@ a:nth-child(4) .intro_button {
   -webkit-transition: opacity .6s ease-out .1s, -webkit-transform .55s ease-out .1s;
   -moz-transition: all .5s ease-out 0s;
   -ms-transition: all .5s ease-out 0s; }
+
+.intro_name, .intro_line {
+  border-radius: 4px; }
 
 .intro_name_container.show, .intro_line_container.show {
   opacity: 1;
