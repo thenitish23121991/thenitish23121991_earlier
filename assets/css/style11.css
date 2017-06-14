@@ -439,6 +439,9 @@ a:nth-child(4) .intro_button {
   -moz-transition: all .5s ease-out 0s;
   -ms-transition: all .5s ease-out 0s; }
 
+.intro_name_container .intro_name, .intro_line_container .intro_line {
+  border-radius: 4px; }
+
 .intro_name_container.show, .intro_line_container.show {
   opacity: 1;
   transform: translateX(0px);
