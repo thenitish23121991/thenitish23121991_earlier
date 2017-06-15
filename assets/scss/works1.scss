@@ -364,6 +364,12 @@ margin-left:24px;
 }
 
 
+.screens_images_container img{
+box-shadow:1px 1px 5px 5px #aaa;	
+-webkit-box-shadow:1px 1px 5px 5px #aaa;	
+}
+
+
 .works_content_container > div.themed_container{
 	width:100%;
 	padding:36px 0px 18px 0px;
