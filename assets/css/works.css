@@ -997,8 +997,8 @@ margin-left:24px;
   margin: 22px 0px; }
 
 .screens_images_container img {
-  box-shadow: 1px 1px 8px 1px #888;
-  -webkit-box-shadow: 1px 1px 8px 1px #888; }
+  box-shadow: 1px 1px 20px 1px #bbb;
+  -webkit-box-shadow: 1px 1px 20px 1px #bbb; }
 
 .works_content_container > div.themed_container {
   width: 100%;
