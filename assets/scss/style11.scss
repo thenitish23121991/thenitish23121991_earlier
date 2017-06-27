@@ -592,9 +592,6 @@ opacity:0;
 transform:scale(.2);
 -webkit-transform:scale(.2);
 -moz-transform:scale(.2);
-transition:all .2s ease-out 0s;
--webkit-transition:all .2s ease-out 0s;
--moz-transition:all .2s ease-out 0s;
 }
 
 svg polygon.polygon_active{
@@ -605,18 +602,18 @@ svg polygon.polygon_active{
   -ms-transform:scale(1);
 }
 
-
-/*
-@for $i from 1 through 25
- svg polygon:nth-child()
-  transition:all .2s ease-out $i*2;
-  */
+@for $i from 1 through 83{
+  svg polygon:nth-child(#{$i}){
+    transition:all .5s ease-out #{$i*.005}s
+    }
+}
 
 
 .left_aligned_images{
-  margin-top:32px;
+margin-top:32px;
 }
 
+ 
 
 /*# sourceMappingURL=style4.css.map */
 
