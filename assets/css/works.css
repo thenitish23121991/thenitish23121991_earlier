@@ -495,6 +495,271 @@ a:nth-child(4) .intro_button {
 .first_slide_overlay {
   background: none; }
 
+svg polygon {
+  opacity: 0;
+  transform: scale(0.2);
+  -webkit-transform: scale(0.2);
+  -moz-transform: scale(0.2); }
+
+svg polygon.polygon_active {
+  opacity: 1;
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1); }
+
+svg polygon:nth-child(1) {
+  transition: all 0.5s ease-out 0.005s; }
+
+svg polygon:nth-child(2) {
+  transition: all 0.5s ease-out 0.01s; }
+
+svg polygon:nth-child(3) {
+  transition: all 0.5s ease-out 0.015s; }
+
+svg polygon:nth-child(4) {
+  transition: all 0.5s ease-out 0.02s; }
+
+svg polygon:nth-child(5) {
+  transition: all 0.5s ease-out 0.025s; }
+
+svg polygon:nth-child(6) {
+  transition: all 0.5s ease-out 0.03s; }
+
+svg polygon:nth-child(7) {
+  transition: all 0.5s ease-out 0.035s; }
+
+svg polygon:nth-child(8) {
+  transition: all 0.5s ease-out 0.04s; }
+
+svg polygon:nth-child(9) {
+  transition: all 0.5s ease-out 0.045s; }
+
+svg polygon:nth-child(10) {
+  transition: all 0.5s ease-out 0.05s; }
+
+svg polygon:nth-child(11) {
+  transition: all 0.5s ease-out 0.055s; }
+
+svg polygon:nth-child(12) {
+  transition: all 0.5s ease-out 0.06s; }
+
+svg polygon:nth-child(13) {
+  transition: all 0.5s ease-out 0.065s; }
+
+svg polygon:nth-child(14) {
+  transition: all 0.5s ease-out 0.07s; }
+
+svg polygon:nth-child(15) {
+  transition: all 0.5s ease-out 0.075s; }
+
+svg polygon:nth-child(16) {
+  transition: all 0.5s ease-out 0.08s; }
+
+svg polygon:nth-child(17) {
+  transition: all 0.5s ease-out 0.085s; }
+
+svg polygon:nth-child(18) {
+  transition: all 0.5s ease-out 0.09s; }
+
+svg polygon:nth-child(19) {
+  transition: all 0.5s ease-out 0.095s; }
+
+svg polygon:nth-child(20) {
+  transition: all 0.5s ease-out 0.1s; }
+
+svg polygon:nth-child(21) {
+  transition: all 0.5s ease-out 0.105s; }
+
+svg polygon:nth-child(22) {
+  transition: all 0.5s ease-out 0.11s; }
+
+svg polygon:nth-child(23) {
+  transition: all 0.5s ease-out 0.115s; }
+
+svg polygon:nth-child(24) {
+  transition: all 0.5s ease-out 0.12s; }
+
+svg polygon:nth-child(25) {
+  transition: all 0.5s ease-out 0.125s; }
+
+svg polygon:nth-child(26) {
+  transition: all 0.5s ease-out 0.13s; }
+
+svg polygon:nth-child(27) {
+  transition: all 0.5s ease-out 0.135s; }
+
+svg polygon:nth-child(28) {
+  transition: all 0.5s ease-out 0.14s; }
+
+svg polygon:nth-child(29) {
+  transition: all 0.5s ease-out 0.145s; }
+
+svg polygon:nth-child(30) {
+  transition: all 0.5s ease-out 0.15s; }
+
+svg polygon:nth-child(31) {
+  transition: all 0.5s ease-out 0.155s; }
+
+svg polygon:nth-child(32) {
+  transition: all 0.5s ease-out 0.16s; }
+
+svg polygon:nth-child(33) {
+  transition: all 0.5s ease-out 0.165s; }
+
+svg polygon:nth-child(34) {
+  transition: all 0.5s ease-out 0.17s; }
+
+svg polygon:nth-child(35) {
+  transition: all 0.5s ease-out 0.175s; }
+
+svg polygon:nth-child(36) {
+  transition: all 0.5s ease-out 0.18s; }
+
+svg polygon:nth-child(37) {
+  transition: all 0.5s ease-out 0.185s; }
+
+svg polygon:nth-child(38) {
+  transition: all 0.5s ease-out 0.19s; }
+
+svg polygon:nth-child(39) {
+  transition: all 0.5s ease-out 0.195s; }
+
+svg polygon:nth-child(40) {
+  transition: all 0.5s ease-out 0.2s; }
+
+svg polygon:nth-child(41) {
+  transition: all 0.5s ease-out 0.205s; }
+
+svg polygon:nth-child(42) {
+  transition: all 0.5s ease-out 0.21s; }
+
+svg polygon:nth-child(43) {
+  transition: all 0.5s ease-out 0.215s; }
+
+svg polygon:nth-child(44) {
+  transition: all 0.5s ease-out 0.22s; }
+
+svg polygon:nth-child(45) {
+  transition: all 0.5s ease-out 0.225s; }
+
+svg polygon:nth-child(46) {
+  transition: all 0.5s ease-out 0.23s; }
+
+svg polygon:nth-child(47) {
+  transition: all 0.5s ease-out 0.235s; }
+
+svg polygon:nth-child(48) {
+  transition: all 0.5s ease-out 0.24s; }
+
+svg polygon:nth-child(49) {
+  transition: all 0.5s ease-out 0.245s; }
+
+svg polygon:nth-child(50) {
+  transition: all 0.5s ease-out 0.25s; }
+
+svg polygon:nth-child(51) {
+  transition: all 0.5s ease-out 0.255s; }
+
+svg polygon:nth-child(52) {
+  transition: all 0.5s ease-out 0.26s; }
+
+svg polygon:nth-child(53) {
+  transition: all 0.5s ease-out 0.265s; }
+
+svg polygon:nth-child(54) {
+  transition: all 0.5s ease-out 0.27s; }
+
+svg polygon:nth-child(55) {
+  transition: all 0.5s ease-out 0.275s; }
+
+svg polygon:nth-child(56) {
+  transition: all 0.5s ease-out 0.28s; }
+
+svg polygon:nth-child(57) {
+  transition: all 0.5s ease-out 0.285s; }
+
+svg polygon:nth-child(58) {
+  transition: all 0.5s ease-out 0.29s; }
+
+svg polygon:nth-child(59) {
+  transition: all 0.5s ease-out 0.295s; }
+
+svg polygon:nth-child(60) {
+  transition: all 0.5s ease-out 0.3s; }
+
+svg polygon:nth-child(61) {
+  transition: all 0.5s ease-out 0.305s; }
+
+svg polygon:nth-child(62) {
+  transition: all 0.5s ease-out 0.31s; }
+
+svg polygon:nth-child(63) {
+  transition: all 0.5s ease-out 0.315s; }
+
+svg polygon:nth-child(64) {
+  transition: all 0.5s ease-out 0.32s; }
+
+svg polygon:nth-child(65) {
+  transition: all 0.5s ease-out 0.325s; }
+
+svg polygon:nth-child(66) {
+  transition: all 0.5s ease-out 0.33s; }
+
+svg polygon:nth-child(67) {
+  transition: all 0.5s ease-out 0.335s; }
+
+svg polygon:nth-child(68) {
+  transition: all 0.5s ease-out 0.34s; }
+
+svg polygon:nth-child(69) {
+  transition: all 0.5s ease-out 0.345s; }
+
+svg polygon:nth-child(70) {
+  transition: all 0.5s ease-out 0.35s; }
+
+svg polygon:nth-child(71) {
+  transition: all 0.5s ease-out 0.355s; }
+
+svg polygon:nth-child(72) {
+  transition: all 0.5s ease-out 0.36s; }
+
+svg polygon:nth-child(73) {
+  transition: all 0.5s ease-out 0.365s; }
+
+svg polygon:nth-child(74) {
+  transition: all 0.5s ease-out 0.37s; }
+
+svg polygon:nth-child(75) {
+  transition: all 0.5s ease-out 0.375s; }
+
+svg polygon:nth-child(76) {
+  transition: all 0.5s ease-out 0.38s; }
+
+svg polygon:nth-child(77) {
+  transition: all 0.5s ease-out 0.385s; }
+
+svg polygon:nth-child(78) {
+  transition: all 0.5s ease-out 0.39s; }
+
+svg polygon:nth-child(79) {
+  transition: all 0.5s ease-out 0.395s; }
+
+svg polygon:nth-child(80) {
+  transition: all 0.5s ease-out 0.4s; }
+
+svg polygon:nth-child(81) {
+  transition: all 0.5s ease-out 0.405s; }
+
+svg polygon:nth-child(82) {
+  transition: all 0.5s ease-out 0.41s; }
+
+svg polygon:nth-child(83) {
+  transition: all 0.5s ease-out 0.415s; }
+
+.left_aligned_images {
+  margin-top: 32px; }
+
 /*# sourceMappingURL=style4.css.map */
 @media all and (min-width: 280px) and (max-width: 480px) {
   #home_content_container {
@@ -938,6 +1203,10 @@ margin-left:24px;
 .color_box {
   width: 240px;
   height: 240px; }
+
+.sketches_container img {
+  height: 480px;
+  width: 360px; }
 
 #works_goqii_container .theme_container.theme_container_old .theme_color_card:nth-child(1) .color_box {
   background: #3e88ed; }
