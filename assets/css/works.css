@@ -290,6 +290,8 @@ a:nth-child(4) .intro_button {
 
 .contact_email {
   font-family: "FuturaPTLight";
+  text-decoration: underline;
+  cursor: pointer;
   font-size: 35px;
   color: #1ebcff; }
 
@@ -782,7 +784,7 @@ svg polygon:nth-child(83) {
     font-size: 48px; }
 
   .contact_email {
-    font-size: 23px; }
+    font-size: 18.5px; }
 
   .work_section_title {
     font-size: 42px; }
@@ -843,7 +845,7 @@ svg polygon:nth-child(83) {
     font-size: 48px; }
 
   .contact_email {
-    font-size: 23px; }
+    font-size: 18.5px; }
 
   .work_section_title {
     font-size: 42px; }
@@ -904,7 +906,7 @@ svg polygon:nth-child(83) {
     font-size: 48px; }
 
   .contact_email {
-    font-size: 23px; }
+    font-size: 18.5px; }
 
   .work_section_title {
     font-size: 42px; }
@@ -1319,6 +1321,10 @@ margin-left:24px;
 
 .cover_image_container.full {
   text-align: center; }
+
+.frienzz_image {
+  width: 1800px;
+  height: 4376px; }
 
 @media all and (min-width: 280px) and (max-width: 480px) {
   .works_overlay_title {
