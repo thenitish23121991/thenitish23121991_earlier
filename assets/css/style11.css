@@ -762,10 +762,6 @@ svg polygon:nth-child(83) {
 .left_aligned_images {
   margin-top: 32px; }
 
-#third_slide {
-  background-image: url("../images/portfolio_wires.png");
-  background-size: scale; }
-
 /*# sourceMappingURL=style4.css.map */
 @media all and (min-width: 280px) and (max-width: 480px) {
   #home_content_container {
