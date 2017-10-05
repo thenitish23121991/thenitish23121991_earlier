@@ -762,6 +762,10 @@ svg polygon:nth-child(83) {
 .left_aligned_images {
   margin-top: 32px; }
 
+#third_slide {
+  background-image: url("../images/portfolio_wires-03.png");
+  background-size: cover; }
+
 /*# sourceMappingURL=style4.css.map */
 @media all and (min-width: 280px) and (max-width: 480px) {
   #home_content_container {
@@ -784,7 +788,7 @@ svg polygon:nth-child(83) {
     font-size: 48px; }
 
   .contact_email {
-    font-size: 16.5px; }
+    font-size: 18.5px; }
 
   .work_section_title {
     font-size: 42px; }
@@ -845,7 +849,7 @@ svg polygon:nth-child(83) {
     font-size: 48px; }
 
   .contact_email {
-    font-size: 16.5px; }
+    font-size: 18.5px; }
 
   .work_section_title {
     font-size: 42px; }
